@@ -1,0 +1,33 @@
+body {
+background-color: rgb(78, 252, 250);
+}
+
+#wrapper {
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+header {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+section {
+	float: left;
+	background: green;
+	width: 630px;
+	height: 300px;
+}
+
+aside {
+	float: right;
+	background: yellow;
+	width: 320px;
+	height: 300px;
+}
+
+footer {
+	clear: both;
+	background-color: lime;
+}
